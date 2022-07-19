@@ -1,2 +1,2 @@
 # GitGhost
-# PerScholas Git exercises go here
+PerScholas Git exercises go here
